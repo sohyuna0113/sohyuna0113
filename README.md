@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=180&section=header&text=%20I'm%20Sohyun%20Ahn!&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=c4c8c5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=180&section=header&text=%20I'm%20Sohyun%20Ahn!&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=302f2e)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
