@@ -3,6 +3,8 @@
 <!--
 **sohyuna0113/sohyuna0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
