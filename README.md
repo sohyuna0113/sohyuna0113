@@ -1,4 +1,4 @@
-### Hi 👋 I'm Sohyun Ahn!
+### Hi 👋  I'm Sohyun Ahn! 😉
 
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 <p align="center">
